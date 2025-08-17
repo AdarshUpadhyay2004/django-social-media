@@ -1,3 +1,5 @@
+`⭐ If you find this project useful, please star this repository! ⭐` 
+
 # django-social-media
 
 A Django-based social media web application where users can create profiles, share posts, like, comment, and follow other users.  
