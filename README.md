@@ -28,19 +28,14 @@ Other: Bootstrap / Tailwind CSS
    ```bash
    git clone https://github.com/AdarshUpadhyay2004/django-social-media.git
    cd django-social-media
-
 2.  Install dependencies:
-  pip install -r requirements.txt
-
+    pip install -r requirements.txt
 3. Run migrations:
    python manage.py makemigrations
    python manage.py migrate
-
 4. Create superuser (for admin panel):
     python manage.py createsuperuser
-   
-5.Start the development server:
+5. Start the development server:
    python manage.py runserver
-
-6.Open in browser:
+6. Open in browser:
    http://127.0.0.1:8000/
